@@ -2,6 +2,33 @@
   "schemaVersion": 1,
   "repository": "OceanEmpirets/OceanLauncher",
   "sourceRepository": "OceanEmpirets/OceanLauncher-Development",
-  "updatedAt": null,
-  "latest": null
+  "updatedAt": "2026-08-15T17:10:33.835Z",
+  "latest": {
+    "tag": "v0.1.2",
+    "version": "0.1.2",
+    "title": "OceanLauncher 0.1.2",
+    "publishedAt": "2026-08-15T17:10:32Z",
+    "assets": [
+      {
+        "name": "checksums.txt",
+        "url": "https://github.com/OceanEmpirets/OceanLauncher/releases/download/v0.1.2/checksums.txt",
+        "size": 292
+      },
+      {
+        "name": "OceanLauncher-0.1.2-android.apk",
+        "url": "https://github.com/OceanEmpirets/OceanLauncher/releases/download/v0.1.2/OceanLauncher-0.1.2-android.apk",
+        "size": 2380582
+      },
+      {
+        "name": "OceanLauncher-0.1.2-macos.dmg",
+        "url": "https://github.com/OceanEmpirets/OceanLauncher/releases/download/v0.1.2/OceanLauncher-0.1.2-macos.dmg",
+        "size": 8619271
+      },
+      {
+        "name": "OceanLauncher-0.1.2-windows.exe",
+        "url": "https://github.com/OceanEmpirets/OceanLauncher/releases/download/v0.1.2/OceanLauncher-0.1.2-windows.exe",
+        "size": 2339123
+      }
+    ]
+  }
 }
